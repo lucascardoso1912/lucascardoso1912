@@ -1,8 +1,8 @@
-### 🧑🏻‍💻 Lucas Cardoso
+## 🧑🏻‍💻 Lucas Cardoso
 ---
 **Estudante de Segurança Cibernética | Engenharia de Segurança Cibernética | Backend**
 
-#### Atualmente me desenvolvo em cibersegurança, automação e análise de dados, interessado em entender como os sistemas funcionam por trás e como torná-los mais organizados, eficientes e seguros. Tenho experiência prática no desenvolvimento de soluções em Python integradas a banco de dados, criação de automações para geração de relatórios, organização de informações técnicas e estruturação de dados para apoio à tomada de decisão. Gosto de trabalhar com lógica, resolução de problemas e melhoria de processos, sempre buscando aprender novas tecnologias e aplicar conhecimento de forma prática em projetos reais.
+### Atualmente me desenvolvo em cibersegurança, automação e análise de dados, interessado em entender como os sistemas funcionam por trás e como torná-los mais organizados, eficientes e seguros. Tenho experiência prática no desenvolvimento de soluções em Python integradas a banco de dados, criação de automações para geração de relatórios, organização de informações técnicas e estruturação de dados para apoio à tomada de decisão. Gosto de trabalhar com lógica, resolução de problemas e melhoria de processos, sempre buscando aprender novas tecnologias e aplicar conhecimento de forma prática em projetos reais.
 ---
 ### 🛠 Tecnologias
 
