@@ -6,10 +6,10 @@
 ### Atualmente atuo como Analista de Suporte, trabalhando com análise técnica de sistemas, integrações via APIs REST, investigação de problemas, troubleshooting e automação utilizando Python. Minha rotina envolve compreender o funcionamento de aplicações, validar integrações e identificar a causa de falhas em ambientes reais. 
 
 
-Minha principal área de atuação e desenvolvimento é Cybersecurity, com foco em Pentesting e Segurança Ofensiva. Busco aprofundar meus conhecimentos em segurança de aplicações web, APIs, infraestrutura Linux, redes, exploração de vulnerabilidades e automação para testes de segurança.
+### Minha principal área de atuação e desenvolvimento é Cybersecurity, com foco em Pentesting e Segurança Ofensiva. Busco aprofundar meus conhecimentos em segurança de aplicações web, APIs, infraestrutura Linux, redes, exploração de vulnerabilidades e automação para testes de segurança.
 ---
 
-Acredito que compreender profundamente como sistemas funcionam é essencial para identificar vulnerabilidades e contribuir para ambientes mais seguros. Por isso, estudo continuamente programação, desenvolvimento seguro, protocolos de rede, arquitetura de aplicações e técnicas utilizadas por profissionais de segurança ofensiva.
+### Acredito que compreender profundamente como sistemas funcionam é essencial para identificar vulnerabilidades e contribuir para ambientes mais seguros. Por isso, estudo continuamente programação, desenvolvimento seguro, protocolos de rede, arquitetura de aplicações e técnicas utilizadas por profissionais de segurança ofensiva.
 ---
 
 Tenho experiência com Python, Linux, APIs REST, SQL, Git e automação, além de desenvolver projetos próprios voltados à segurança e produtividade. Meu objetivo é construir uma carreira como Pentester, atuando na identificação, exploração e mitigação de vulnerabilidades em aplicações e infraestruturas.
