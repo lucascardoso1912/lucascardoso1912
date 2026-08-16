@@ -68,25 +68,3 @@
 <br clear="left"/>
 
 
-
-
-### 📊 Estátisticas
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascardoso1912&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="120" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardoso1912&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-
-</p
