@@ -78,7 +78,24 @@ Essa vivência é a base da minha transição para Segurança da Informação, c
 <h3 align="center">Stack</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,docker,git,postgres,fastapi,postman,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,linux,docker,git,postgres,fastapi,postman,bash&theme=dark" />
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:0D1117&height=2&width=1000" width="100%" />
+
+<h3 align="center">Certificações</h3>
+
+<div align="center">
+
+<a href="https://coursera.org/verify/professional-cert/2BFAMB2WSBOO">
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-0D1117?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=0D1117" />
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/FIAP-Linux_Fundamentals-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FIAP-Python_Development-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
+
 </div>
 
 <br>
@@ -89,29 +106,18 @@ Essa vivência é a base da minha transição para Segurança da Informação, c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucascardoso1912&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardoso1912&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=lucascardoso1912&theme=dark&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucascardoso1912&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" width="95%" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:0D1117&height=2&width=1000" width="100%" />
-
-<h3 align="center">Trophies</h3>
+<br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucascardoso1912&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<em>Certificados mostram o que estudei. Estes repositórios mostram o que eu sei fazer na prática.</em>
 </div>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=100&section=footer" width="100%" />
-
-
 
 
