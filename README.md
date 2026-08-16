@@ -1,91 +1,57 @@
 <div align="center">
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=170&section=header&text=Lucas%20Cardoso%20Rocha&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20API%20Security%20%26%20AppSec&descSize=16&descAlignY=56&descColor=C9D1D9" width="100%" />
+# Lucas Cardoso Rocha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=620&lines=Python+%C2%B7+Linux+%C2%B7+APIs+REST+%C2%B7+SQL;CTFs%2C+writeups+e+projetos+pr%C3%A1ticos;OWASP+API+Security+Top+10" alt="Typing SVG" />
+**Cybersecurity · API Security & AppSec**
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/lucascardoso-it/">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2F81F7&labelColor=161B22" />
-</a>
-<a href="mailto:luscacardoso1912@gmail.com">
-<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=2F81F7&labelColor=161B22" />
-</a>
-<a href="https://github.com/lucascardoso1912/security-journey">
-<img src="https://img.shields.io/badge/Security_Journey-161B22?style=for-the-badge&logo=github&logoColor=2F81F7&labelColor=161B22" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=lucascardoso1912&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=2F81F7&style=flat-square" />
-
-</div>
+<sub>São Paulo, Brasil</sub>
 
 <br>
 
-<table width="100%">
-<tr><td>
+[LinkedIn](https://www.linkedin.com/in/lucascardoso-it/) &nbsp;·&nbsp; [Email](mailto:luscacardoso1912@gmail.com) &nbsp;·&nbsp; [Security Journey](https://github.com/lucascardoso1912/security-journey)
+
+<br>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+
+<br>
 
 ### Sobre
 
-Atuo como analista de suporte técnico em uma plataforma SaaS, trabalhando com investigação de incidentes, análise de APIs REST, autenticação, webhooks e troubleshooting em ambientes de produção.
+Atuo como analista de suporte técnico em uma plataforma SaaS, com experiência prática em investigação de incidentes, análise de APIs REST, autenticação, webhooks e troubleshooting em ambientes de produção.
 
-Estou em transição de carreira para Cybersecurity, com foco inicial em API Security e AppSec. Minha vivência com suporte me deu uma base real de como APIs, integrações e sistemas de produção funcionam por dentro, e é essa base que estou aprofundando agora do lado ofensivo e defensivo da segurança.
+Estou em transição de carreira para Cybersecurity, com foco inicial em API Security e AppSec. A vivência com suporte deu uma base real de como sistemas de produção funcionam por dentro; agora estou aprofundando essa base do lado ofensivo e defensivo da segurança, com prática documentada em CTFs e projetos próprios.
 
-**Objetivo atual:** estágio em Segurança da Informação, com interesse em AppSec, SOC ou Pentest Júnior.
-
-</td></tr>
-</table>
+Buscando estágio em Segurança da Informação, com interesse em AppSec, SOC ou Pentest Júnior.
 
 <br>
 
-### Projetos em destaque
+### Projetos
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img width="56" src="https://img.icons8.com/fluency/96/api-settings.png" />
+<td width="50%" style="padding: 24px; vertical-align: top;">
 
 **Support API Academy**
 
-<sub>Documentação técnica de API adotada por múltiplas áreas da empresa como referência de treinamento.</sub>
+Documentação técnica de API criada do zero, adotada por múltiplas áreas da empresa como referência de treinamento e onboarding.
 
-<br><br>
+`Documentação` `API` `Treinamento`
 
-<img src="https://img.shields.io/badge/API_Docs-161B22?style=flat-square&labelColor=161B22&color=2F81F7" />
-<img src="https://img.shields.io/badge/Training-161B22?style=flat-square&labelColor=161B22&color=2F81F7" />
-
-<br><br>
-
-<a href="https://github.com/lucascardoso1912/support-api-academy">
-<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2F81F7?style=flat-square&logo=github&logoColor=white" />
-</a>
-</div>
+[github.com/lucascardoso1912/support&#8209;api&#8209;academy →](https://github.com/lucascardoso1912/support-api-academy)
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img width="56" src="https://img.icons8.com/fluency/96/security-checked.png" />
+<td width="50%" style="padding: 24px; vertical-align: top;">
 
 **Security Journey**
 
-<sub>Estudos, writeups de CTF e projetos práticos na trilha de Cybersecurity.</sub>
+Estudos, writeups de CTF e projetos práticos documentando a trilha de aprendizado em Cybersecurity, com foco em segurança de APIs.
 
-<br><br>
+`CTF` `AppSec` `OWASP`
 
-<img src="https://img.shields.io/badge/CTF-161B22?style=flat-square&labelColor=161B22&color=2F81F7" />
-<img src="https://img.shields.io/badge/AppSec-161B22?style=flat-square&labelColor=161B22&color=2F81F7" />
-
-<br><br>
-
-<a href="https://github.com/lucascardoso1912/security-journey">
-<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2F81F7?style=flat-square&logo=github&logoColor=white" />
-</a>
-</div>
+[github.com/lucascardoso1912/security&#8209;journey →](https://github.com/lucascardoso1912/security-journey)
 
 </td>
 </tr>
@@ -97,25 +63,25 @@ Estou em transição de carreira para Cybersecurity, com foco inicial em API Sec
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%">
 
-**Linguagens & Web**
-<br>
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+**Linguagens**
+
+Python&nbsp;&nbsp;JavaScript&nbsp;&nbsp;HTML&nbsp;&nbsp;CSS
 
 </td>
-<td width="33%" valign="top">
+<td width="33%">
 
 **Dados & Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,fastapi,postman&theme=dark" />
+
+SQL&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;FastAPI&nbsp;&nbsp;Postman
 
 </td>
-<td width="33%" valign="top">
+<td width="33%">
 
 **Infra & Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash&theme=dark" />
+
+Linux&nbsp;&nbsp;Docker&nbsp;&nbsp;Git&nbsp;&nbsp;Bash
 
 </td>
 </tr>
@@ -125,36 +91,20 @@ Estou em transição de carreira para Cybersecurity, com foco inicial em API Sec
 
 ### Certificações
 
-<div align="center">
+| Certificado | Instituição |
+|---|---|
+| [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/2BFAMB2WSBOO) | Google · Coursera |
+| Linux Fundamentals | FIAP |
+| Python Development | FIAP |
 
-<a href="https://coursera.org/verify/professional-cert/2BFAMB2WSBOO">
-<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-161B22?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=161B22" />
-</a>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+
+<div align="center">
+<br>
+
+<sub>Certificados mostram o que estudei. Estes repositórios mostram o que eu sei fazer na prática.</sub>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/FIAP-Linux_Fundamentals-161B22?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=161B22" />
-<img src="https://img.shields.io/badge/FIAP-Python_Development-161B22?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161B22" />
-
 </div>
-
-<br>
-
-### Estatísticas
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucascardoso1912&theme=dark&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>Certificados mostram o que estudei. Estes repositórios mostram o que eu sei fazer na prática.</sub>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=90&section=footer" width="100%" />
-
