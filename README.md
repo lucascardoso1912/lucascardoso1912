@@ -1,45 +1,47 @@
 <div align="center">
 
-# Lucas Cardoso
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Suporte+T%C3%A9cnico+(SaaS)+em+transi%C3%A7%C3%A3o+para+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Foco+em+API+Security+%2F+AppSec;Aprendendo+na+pr%C3%A1tica%2C+um+CTF+por+vez" alt="Typing SVG" />
 
-### Suporte Técnico (SaaS) em transição para Segurança da Informação
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascardoso-it/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luscacardoso1912@gmail.com)
-[![Location](https://img.shields.io/badge/São_Paulo-informational?style=flat&color=555)](https://github.com/lucascardoso1912)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascardoso-it/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luscacardoso1912@gmail.com)
+[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo-1F2937?style=for-the-badge&color=555)](https://github.com/lucascardoso1912)
 
 </div>
 
 <br>
 
-## Sobre mim
+## 📄 Sobre mim
 
 Atuo como analista de suporte técnico em uma plataforma SaaS, trabalhando com investigação de incidentes, análise de APIs REST, autenticação, webhooks e troubleshooting em ambientes de produção.
 
 Essa vivência é a base da minha transição para Segurança da Informação, com foco inicial em API Security e AppSec. Já entendo como APIs funcionam por dentro, agora estou aprendendo a testá-las e protegê-las na prática.
 
+**Objetivo atual:** estágio em Segurança da Informação (AppSec, SOC ou Pentest Júnior).
+
 <br>
 
-## Destaques
+## 🔐 Destaques
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📄 Support API Academy**
+### Support API Academy
 
 Documentação técnica de API criada do zero, adotada por múltiplas áreas da empresa como referência de treinamento.
 
-[`Ver repositório`](https://github.com/lucascardoso1912/support-api-academy)
+[`Ver repositório →`](https://github.com/lucascardoso1912/support-api-academy)
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 Security Journey**
+### Security Journey
 
 Estudos, writeups de CTF e projetos práticos na minha trilha rumo a Segurança da Informação.
 
-[`Ver repositório`](https://github.com/lucascardoso1912/security-journey)
+[`Ver repositório →`](https://github.com/lucascardoso1912/security-journey)
 
 </td>
 </tr>
@@ -47,31 +49,37 @@ Estudos, writeups de CTF e projetos práticos na minha trilha rumo a Segurança 
 
 <br>
 
-## Stack
+## 🛠️ Stack
 
-<div align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,docker,git,postgres,fastapi,postman,bash&theme=dark" />
 </div>
 
 <br>
 
-## Objetivo atual
-
-Buscando oportunidade de estágio em Segurança da Informação, com interesse em AppSec, SOC ou Pentest Júnior.
-
-<br>
+## 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucascardoso1912&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascardoso1912&theme=dark&hide_border=true" width="48%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucascardoso1912&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardoso1912&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7" />
 
+<br>
+
+<img src="https://streak-stats.demolab.com?user=lucascardoso1912&theme=dark&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucascardoso1912&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" width="95%" />
+
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lucascardoso1912&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
 <br>
