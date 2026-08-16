@@ -36,8 +36,6 @@ Atuo como analista de suporte técnico em uma plataforma SaaS, trabalhando com i
 
 Essa vivência é a base da minha transição para Segurança da Informação, com foco inicial em API Security e AppSec. Já entendo como APIs funcionam por dentro, agora estou aprendendo a testá-las e protegê-las na prática.
 
-<strong>Objetivo atual:</strong> estágio em Segurança da Informação, com interesse em AppSec, SOC ou Pentest Júnior.
-
 </td></tr>
 </table>
 </p>
