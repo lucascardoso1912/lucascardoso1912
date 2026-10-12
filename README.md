@@ -2,7 +2,7 @@
 
 # Lucas Cardoso
 
-**Customer Onboarding Analyst (IT & AI),· Automation & AI Agents**
+**Customer Onboarding Analyst (IT & AI) · APIs, Automation & AI Agents**
 *Building my way into cybersecurity.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascardoso-it/)
