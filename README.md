@@ -3,7 +3,7 @@
 # Lucas Cardoso
 
 **Customer Onboarding & Technical Support · Automation & AI Agents**
-*Building my way into cybersecurity.*
+*Building my way into cybersecurity, one lab at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascardoso-it/)
 ![Location](https://img.shields.io/badge/São_Paulo-Brazil-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -35,32 +35,33 @@ lucas@lab:~$ echo $MOTTO
 
 ## Tech stack
 
+**Languages, automation and tools**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
-## Where I'm heading
+**Security fundamentals (hands-on in my lab)**
 
-```mermaid
-flowchart LR
-    A[Technical support] --> B[Onboarding, automation and AI agents]
-    B --> C[Linux and networking foundations]
-    C --> D[SOC analyst]
-    D --> E[Cybersecurity engineer]
-```
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-374151?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-## Featured projects
+## Featured project
 
 | Project | What it is |
 |---|---|
 | [support-api-academy](https://github.com/lucascardoso1912/support-api-academy) | Practical, video-based API documentation that support and onboarding teams use for training. |
-| [security-journey](https://github.com/lucascardoso1912/security-journey) | Study notes, lab write-ups and hands-on exercises on my path to security. |
 
 <details>
 <summary><b>Current learning plan</b> (click to expand)</summary>
@@ -78,10 +79,4 @@ I work in a home lab and write down what I learn, including my mistakes.
 
 </details>
 
----
 
-<div align="center">
-
-*Open to conversations about security, automation and AI agents.*
-
-</div>
