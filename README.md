@@ -24,7 +24,8 @@ lucas@lab:~$ cat now.txt
 > next stop: SOC analyst role, Security+
 
 lucas@lab:~$ echo $MOTTO
-"Certificates show what I studied. Repositories show what I can do."
+"──(root㉿kali)-[~]
+└─# "
 ```
 
 ## What I do
