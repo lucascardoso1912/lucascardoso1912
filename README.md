@@ -3,7 +3,7 @@
 # Lucas Cardoso
 
 **Customer Onboarding & Technical Support · Automation & AI Agents**
-*Building my way into cybersecurity, one lab at a time.*
+*Building my way into cybersecurity.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascardoso-it/)
 ![Location](https://img.shields.io/badge/São_Paulo-Brazil-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
