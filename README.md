@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascardoso-it/)
 ![Localização](https://img.shields.io/badge/São_Paulo-Brasil-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Foco](https://img.shields.io/badge/Foco-Linux_%C2%B7_Redes_%C2%B7_SOC-0F766E?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-REST_%C2%B7_Integra%C3%A7%C3%B5es-7C3AED?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
